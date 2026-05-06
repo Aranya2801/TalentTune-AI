@@ -1,0 +1,36 @@
+ARANYA CHAKRABORTY
+Software Engineer
+aranya@email.com | linkedin.com/in/aranya | github.com/Aranya2801 | Kolkata, India
+
+SUMMARY
+Software engineer with experience in building web applications and working with Python and JavaScript. Interested in backend development and data engineering.
+
+EXPERIENCE
+
+Software Engineer — StartupXYZ, Kolkata (Jan 2023 – Present)
+• Worked on backend APIs using Python and Flask
+• Helped maintain the company database
+• Fixed bugs and improved code performance
+• Participated in code reviews
+• Worked on frontend using React
+
+Junior Developer — FreelanceWork (Jun 2022 – Dec 2022)
+• Built websites for small businesses
+• Used HTML, CSS, JavaScript
+• Deployed applications to servers
+
+EDUCATION
+B.Tech in Computer Science — XYZ University, Kolkata (2018–2022) | GPA: 8.2/10
+
+PROJECTS
+
+Resume Optimizer (Python, Flask, OpenAI API)
+• Built a tool that optimizes resumes using AI
+
+E-commerce Website (React, Node.js, MongoDB)
+• Created a basic e-commerce platform with product listings and cart
+
+SKILLS
+Languages: Python, JavaScript, Java, SQL
+Frameworks: Flask, React, Node.js
+Tools: Git, Docker, AWS (basic), PostgreSQL

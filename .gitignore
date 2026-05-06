@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+venv/
+env/
+.venv/
+
+# Environment
+.env
+.env.local
+.env.production
+*.key
+
+# Node
+node_modules/
+dist/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Docker
+*.log
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Outputs
+*.pdf
+*.docx
+outputs/
