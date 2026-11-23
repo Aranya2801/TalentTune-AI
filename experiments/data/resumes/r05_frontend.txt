@@ -1,0 +1,24 @@
+Kavya Reddy
+Frontend Engineer
+kavya.reddy@example.com | Bengaluru
+
+EXPERIENCE
+Frontend Engineer — Pixelnest, Bengaluru (Feb 2022 – Present)
+• Rebuilt the customer dashboard in React and TypeScript; Lighthouse performance score went from 54 to 91
+• Moved the marketing site to Next.js with static generation
+• Built a shared component library with Tailwind CSS used by 4 product teams
+• Wrote Jest and React Testing Library tests for the checkout flow
+
+UI Developer — Webcraft Studio, Hyderabad (Jun 2020 – Jan 2022)
+• Developed responsive pages in HTML, CSS and JavaScript for 20+ client sites
+• Integrated REST APIs and GraphQL endpoints in Vue.js apps
+
+PROJECTS
+Open source date picker (TypeScript, React)
+• Maintain a small accessible date picker on npm, about 3k weekly downloads
+
+EDUCATION
+B.Tech Computer Science — JNTU Hyderabad (2016–2020)
+
+SKILLS
+JavaScript, TypeScript, React, Next.js, Redux, HTML, CSS, Tailwind CSS, Jest, Webpack, Git, Figma

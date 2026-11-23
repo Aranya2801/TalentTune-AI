@@ -1,0 +1,22 @@
+Sneha Iyer
+Software Engineer (Backend)
+sneha.iyer@example.com | Bengaluru
+
+EXPERIENCE
+Senior Software Engineer — Finvolt, Bengaluru (Aug 2021 – Present)
+• Own the order-matching microservices written in Java 17 and Spring Boot (14 services)
+• Introduced Kafka-based event sourcing for trade events, about 40k events per second at peak
+• Migrated services from VMs to Kubernetes on EKS with Helm charts
+• Reduced GC pauses by 60% after profiling and tuning the JVM heap settings
+• Led code reviews and onboarding for new hires
+
+Software Engineer — Telesoft Systems, Chennai (Jun 2018 – Jul 2021)
+• Developed REST APIs with Spring Boot and Hibernate over MySQL
+• Wrote JUnit and integration tests, raising coverage from 35% to 78%
+• Maintained Jenkins CI/CD pipelines for 6 teams
+
+EDUCATION
+B.Tech Information Technology — Anna University (2014–2018)
+
+SKILLS
+Java, Spring Boot, Hibernate, Kafka, MySQL, PostgreSQL, Redis, Kubernetes, Docker, Jenkins, AWS, Microservices

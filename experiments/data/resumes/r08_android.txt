@@ -1,0 +1,20 @@
+Aditya Kulkarni
+Android Developer
+aditya.k@example.com | Pune
+
+EXPERIENCE
+Android Developer — Ridewise, Pune (Jan 2022 – Present)
+• Rewrote the rider app UI in Kotlin with Jetpack Compose; crash-free sessions went from 97.1% to 99.6%
+• Added offline trip history using Room and WorkManager
+• Set up GitHub Actions to build, test and ship beta builds to Play Store testers
+
+Mobile Developer — Appstack Labs, Pune (Jun 2020 – Dec 2021)
+• Built 5 client Android apps in Java and Kotlin
+• Integrated REST APIs, Firebase auth and push notifications
+• Wrote unit tests with JUnit and Espresso
+
+EDUCATION
+B.E. Computer Engineering — Savitribai Phule Pune University (2016–2020)
+
+SKILLS
+Kotlin, Java, Android, Jetpack Compose, Room, REST, Git, GitHub Actions, Unit Testing

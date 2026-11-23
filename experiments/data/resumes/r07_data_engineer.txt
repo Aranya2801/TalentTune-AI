@@ -1,0 +1,21 @@
+Meera Joshi
+Data Engineer
+meera.joshi@example.com | Mumbai
+
+EXPERIENCE
+Data Engineer — Streamly Media, Mumbai (Sep 2021 – Present)
+• Built batch and streaming pipelines with Spark and Kafka that process ~3TB of viewing events a day
+• Orchestrated 80+ Airflow DAGs and moved transformations into dbt models on Snowflake
+• Cut warehouse costs by 30% by partitioning tables and removing unused jobs
+• Wrote data quality checks that block bad loads before they hit dashboards
+
+Analytics Engineer — Finbridge, Pune (Jul 2019 – Aug 2021)
+• Wrote SQL and Python ETL jobs feeding PostgreSQL and BigQuery
+• Built Power BI reports for the finance team
+• Worked with analysts on data modeling for the customer 360 tables
+
+EDUCATION
+B.E. Information Technology — Mumbai University (2015–2019)
+
+SKILLS
+Python, SQL, Spark, Kafka, Airflow, dbt, Snowflake, BigQuery, PostgreSQL, AWS, Docker, Data Modeling

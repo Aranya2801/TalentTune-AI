@@ -1,0 +1,20 @@
+Machine Learning Engineer — Sable AI
+
+The role
+We build search and recommendation models for retailers. You'll take models from notebook to production.
+
+What you'll do
+- Train and evaluate deep learning models in PyTorch
+- Build LLM and RAG features on top of our catalog data
+- Deploy and monitor models (MLOps: MLflow, Docker, AWS)
+- Write feature engineering pipelines with Spark
+
+You have
+- 3+ years in ML engineering or applied ML
+- Strong Python and PyTorch
+- Experience with Hugging Face, NLP or recommender systems
+- Solid SQL
+
+Bonus
+- Kubernetes
+- Published work or open-source contributions

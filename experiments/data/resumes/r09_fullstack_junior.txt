@@ -1,0 +1,22 @@
+Nikhil Das
+Full Stack Developer
+nikhil.das@example.com | Kolkata
+
+EXPERIENCE
+Full Stack Developer — Brightcart, Kolkata (Jul 2023 – Present)
+• Worked on React frontend pages and Node.js/Express APIs for an e-commerce site
+• Helped migrate the product database from MongoDB to PostgreSQL
+• Fixed bugs reported by the support team
+
+Intern — Codeshala, Kolkata (Jan 2023 – Jun 2023)
+• Built small Flask apps in Python for internal tools
+
+PROJECTS
+Expense tracker (React, Node.js, MongoDB)
+• Personal project with login, charts and CSV export
+
+EDUCATION
+B.Tech Computer Science — MAKAUT (2019–2023)
+
+SKILLS
+JavaScript, React, Node.js, Express, Python, Flask, MongoDB, PostgreSQL, HTML, CSS, Git, Docker, AWS, Kubernetes, Kafka, TypeScript

@@ -1,0 +1,19 @@
+Site Reliability Engineer — Meridian Cloud
+
+Responsibilities
+• Operate Kubernetes clusters on AWS (EKS)
+• Manage infrastructure as code with Terraform
+• Own monitoring and alerting with Prometheus and Grafana
+• Build CI/CD pipelines and improve release safety
+• Take part in on-call and lead incident reviews
+
+Requirements
+• 4+ years in DevOps or SRE roles
+• Kubernetes, Docker, Helm
+• Terraform and AWS
+• Linux and Bash scripting
+• Experience with CI/CD tooling (GitHub Actions, Jenkins)
+
+Preferred
+• Python or Go for tooling
+• Ansible

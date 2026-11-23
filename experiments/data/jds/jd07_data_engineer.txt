@@ -1,0 +1,18 @@
+Data Engineer — Pulse Analytics
+
+What you will do
+- Build batch and streaming pipelines with Spark and Kafka
+- Orchestrate workflows in Airflow
+- Model data in Snowflake with dbt
+- Keep data quality high and costs under control
+
+Requirements
+- 3+ years of data engineering
+- Python and SQL
+- Spark, Airflow, Kafka
+- Data modeling for analytics
+- Snowflake or BigQuery
+
+Nice to have
+- AWS
+- Docker

@@ -1,0 +1,36 @@
+{
+  "jd01_backend_python": {
+    "r01_backend_python": 2,
+    "r02_java_backend": 1,
+    "r07_data_engineer": 1,
+    "r09_fullstack_junior": 1
+  },
+  "jd02_java_backend": {
+    "r02_java_backend": 2,
+    "r01_backend_python": 1
+  },
+  "jd03_ml_engineer": {
+    "r03_ml_engineer": 2,
+    "r10_data_scientist": 1
+  },
+  "jd04_data_analyst": {
+    "r04_data_analyst": 2,
+    "r10_data_scientist": 1,
+    "r07_data_engineer": 1
+  },
+  "jd05_frontend": {
+    "r05_frontend": 2,
+    "r09_fullstack_junior": 1
+  },
+  "jd06_devops_sre": {
+    "r06_devops": 2
+  },
+  "jd07_data_engineer": {
+    "r07_data_engineer": 2,
+    "r03_ml_engineer": 1,
+    "r04_data_analyst": 1
+  },
+  "jd08_android": {
+    "r08_android": 2
+  }
+}

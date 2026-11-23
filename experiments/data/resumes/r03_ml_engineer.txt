@@ -1,0 +1,27 @@
+Arjun Nair
+Machine Learning Engineer
+arjun.nair@example.com | Hyderabad
+
+SUMMARY
+ML engineer working on NLP and recommendation models, from training to serving.
+
+EXPERIENCE
+ML Engineer — Lumen Retail AI, Hyderabad (Jan 2022 – Present)
+• Trained PyTorch ranking models for product recommendations; offline NDCG up 8% over the XGBoost baseline
+• Fine-tuned an open LLM for product Q&A and built a RAG pipeline over 2M catalog documents
+• Served models with FastAPI and Docker on AWS, with MLflow for experiment tracking
+• Set up feature engineering jobs in PySpark that run nightly on 400GB of clickstream data
+
+Data Scientist — Quantra Analytics, Bengaluru (Jul 2020 – Dec 2021)
+• Built churn models with scikit-learn and XGBoost for telecom clients
+• Wrote NLP pipelines with Hugging Face transformers for ticket classification (macro-F1 0.86)
+
+PROJECTS
+Multilingual sentiment classifier (PyTorch, Hugging Face)
+• Fine-tuned XLM-R on 60k Hindi/English reviews, published the model on the Hub
+
+EDUCATION
+M.Tech Computer Science — IIIT Hyderabad (2018–2020)
+
+SKILLS
+Python, PyTorch, TensorFlow, scikit-learn, XGBoost, Hugging Face, LLMs, RAG, MLflow, Docker, AWS, Spark, SQL

@@ -1,0 +1,18 @@
+Senior Java Engineer — Atlas Trading Tech
+
+Responsibilities:
+• Build low-latency microservices in Java and Spring Boot
+• Design event pipelines on Kafka
+• Run services on Kubernetes, with CI/CD in Jenkins or GitHub Actions
+• Lead code reviews and technical design discussions
+
+Qualifications:
+• 5+ years of Java development
+• Spring Boot, Hibernate/JPA, MySQL or PostgreSQL
+• Microservices and distributed systems experience
+• Docker and Kubernetes
+• Unit testing with JUnit
+
+Preferred:
+• AWS experience
+• Redis

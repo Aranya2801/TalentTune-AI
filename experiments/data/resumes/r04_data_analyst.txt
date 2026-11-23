@@ -1,0 +1,21 @@
+Priya Sharma
+Data Analyst
+priya.sharma@example.com | Gurugram
+
+EXPERIENCE
+Data Analyst — Zestbox Foods, Gurugram (Apr 2022 – Present)
+• Built Tableau dashboards for weekly sales and delivery KPIs used by 40 regional managers
+• Wrote SQL against Snowflake to analyse order funnels; found a checkout drop-off that recovered ~4% of orders
+• Designed and analysed A/B tests on pricing and promotions with the growth team
+• Automated monthly reporting in Excel and Python (Pandas), saving about 2 days a month
+
+Junior Analyst — Brightpath Consulting, Delhi (Jul 2020 – Mar 2022)
+• Cleaned and merged survey data in Excel using pivot tables and VLOOKUP
+• Ran regression analysis on customer satisfaction drivers for 3 retail clients
+• Presented findings to client stakeholders
+
+EDUCATION
+B.Sc. Statistics — University of Delhi (2017–2020)
+
+SKILLS
+SQL, Excel, Tableau, Power BI, Python, Pandas, Statistics, A/B Testing, Snowflake

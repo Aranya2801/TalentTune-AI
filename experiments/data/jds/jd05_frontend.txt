@@ -1,0 +1,16 @@
+Frontend Engineer — Lattice Design Co.
+
+What you'll do
+- Build product UI in React and TypeScript
+- Work on our Next.js marketing and docs sites
+- Help grow the design system with Tailwind CSS and Figma
+
+Requirements
+- 3+ years of frontend experience
+- React, TypeScript, HTML and CSS
+- Testing with Jest or React Testing Library
+- State management (Redux or similar)
+
+Nice to have
+- GraphQL
+- Open source work

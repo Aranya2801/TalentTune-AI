@@ -1,0 +1,18 @@
+Android Engineer — Trailhead Apps
+
+What you'll do
+- Build features for our Android app in Kotlin
+- Move screens to Jetpack Compose
+- Improve offline support (Room) and app stability
+- Own CI for mobile builds
+
+Requirements
+- 3+ years of Android development
+- Kotlin, Android SDK, Jetpack Compose
+- Room or other local persistence
+- Unit testing (JUnit, Espresso)
+- REST API integration
+
+Nice to have
+- Java
+- GitHub Actions

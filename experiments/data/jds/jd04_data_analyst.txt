@@ -1,0 +1,20 @@
+Data Analyst — Harbor Retail
+
+What you'll do:
+- Build dashboards in Tableau or Power BI for the commercial team
+- Write SQL to answer business questions
+- Design and read A/B tests with product and marketing
+- Present findings to stakeholders
+
+What we're looking for:
+- 2+ years as an analyst
+- Strong SQL and Excel
+- Statistics: hypothesis testing, regression
+- Python (Pandas) for analysis
+
+Nice to have:
+- Snowflake or BigQuery
+- dbt
+
+Perks:
+- Hybrid work, annual bonus

@@ -1,0 +1,20 @@
+Ananya Bose
+Data Scientist
+ananya.bose@example.com | Bengaluru
+
+EXPERIENCE
+Data Scientist — Healthpoint Insurance, Bengaluru (Mar 2021 – Present)
+• Built claim fraud models with XGBoost and scikit-learn; flagged 1,800 suspicious claims in the first quarter
+• Ran experiments and A/B tests on renewal reminder emails with the marketing team
+• Wrote SQL and Pandas pipelines for monthly model monitoring
+• Presented model results and trade-offs to business stakeholders
+
+Research Assistant — Indian Statistical Institute, Kolkata (Aug 2019 – Feb 2021)
+• Statistical analysis of survey data in R and Python
+• Co-authored a paper on small-area estimation
+
+EDUCATION
+M.Stat — Indian Statistical Institute (2017–2019)
+
+SKILLS
+Python, R programming, SQL, Pandas, scikit-learn, XGBoost, Statistics, Machine Learning, Tableau, Excel

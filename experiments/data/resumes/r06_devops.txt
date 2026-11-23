@@ -1,0 +1,22 @@
+Vikram Singh
+DevOps / Site Reliability Engineer
+vikram.singh@example.com | Noida
+
+EXPERIENCE
+Site Reliability Engineer — Cloudmint, Noida (May 2021 – Present)
+• Run 6 production Kubernetes clusters on AWS EKS for about 120 microservices
+• Wrote Terraform modules for VPCs, EKS and RDS; all infra changes now go through pull requests
+• Set up Prometheus and Grafana alerting, which cut mean time to detect from 25 to 6 minutes
+• Built GitHub Actions and Argo-based CI/CD pipelines with canary releases
+• Led incident reviews and wrote the on-call runbooks
+
+Systems Engineer — NetAxis, Delhi (Aug 2018 – Apr 2021)
+• Managed Linux servers and Nginx load balancers for a hosting platform
+• Automated server provisioning with Ansible and Bash
+• Moved legacy apps into Docker containers
+
+EDUCATION
+B.Tech Electronics — IP University (2014–2018)
+
+SKILLS
+Kubernetes, Docker, Terraform, AWS, Helm, Prometheus, Grafana, GitHub Actions, Jenkins, Linux, Bash, Ansible, Python
