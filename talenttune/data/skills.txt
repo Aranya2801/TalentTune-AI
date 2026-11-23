@@ -1,0 +1,159 @@
+# Skill taxonomy used for matching.
+#
+# Format:  canonical | category | aliases | implies
+#   - aliases and implies are comma separated, either can be empty
+#   - an alias starting with "=" is matched case-sensitively (needed for
+#     words like Go, React, Spring that are also normal English)
+#   - "implies" gives partial credit: knowing FastAPI says something about
+#     Python, but not the other way round
+#
+# This list is hand-curated and biased towards software / data roles.
+# Add to it freely, the loader is forgiving about whitespace.
+
+# --- languages ---
+Python        | language | python3 |
+Java          | language | =Java, java 8, java 11, java 17 |
+JavaScript    | language | javascript, js, es6, ecmascript |
+TypeScript    | language | typescript |
+Go            | language | golang, =Go |
+Rust          | language | =Rust |
+C++           | language | c++, cpp |
+C#            | language | c#, csharp |
+Kotlin        | language | kotlin |
+Swift         | language | =Swift |
+Scala         | language | scala |
+R             | language | =R programming, =RStudio |
+SQL           | language | sql, t-sql, pl/sql |
+Bash          | language | bash, shell scripting, shell script |
+PHP           | language | php |
+Ruby          | language | =Ruby |
+Dart          | language | =Dart |
+HTML          | language | html, html5 |
+CSS           | language | css, css3, scss, sass |
+
+# --- backend frameworks ---
+FastAPI       | framework | fastapi | Python, REST APIs
+Django        | framework | django, django rest framework, drf | Python
+Flask         | framework | flask | Python
+Spring Boot   | framework | spring boot, springboot, =Spring | Java
+Hibernate     | framework | hibernate, jpa | Java
+Node.js       | framework | node.js, nodejs, =Node | JavaScript
+Express       | framework | express.js, expressjs, =Express | Node.js
+SQLAlchemy    | framework | sqlalchemy | Python, SQL
+.NET          | framework | .net, dotnet, asp.net | C#
+GraphQL       | framework | graphql |
+gRPC          | framework | grpc |
+Celery        | framework | celery | Python
+
+# --- frontend / mobile ---
+React         | framework | =React, react.js, reactjs | JavaScript
+Next.js       | framework | next.js, nextjs | React
+Vue.js        | framework | vue, vue.js, vuejs | JavaScript
+Angular       | framework | angular, angularjs | TypeScript
+Redux         | framework | redux | React
+Tailwind CSS  | framework | tailwind, tailwindcss | CSS
+Webpack       | tool | webpack, vite |
+Jest          | tool | jest, react testing library |
+Android       | platform | android, android sdk |
+Jetpack Compose | framework | jetpack compose, compose ui | Android, Kotlin
+iOS           | platform | =iOS |
+React Native  | framework | react native | React
+Flutter       | framework | flutter | Dart
+
+# --- databases / storage ---
+PostgreSQL    | database | postgresql, postgres, psql | SQL
+MySQL         | database | mysql, mariadb | SQL
+MongoDB       | database | mongodb, mongo |
+Redis         | database | redis |
+Elasticsearch | database | elasticsearch, opensearch, elk |
+Cassandra     | database | cassandra |
+DynamoDB      | database | dynamodb |
+SQLite        | database | sqlite |
+Snowflake     | database | snowflake |
+BigQuery      | database | bigquery |
+Room          | database | =Room database, room persistence |
+pgvector      | database | pgvector |
+
+# --- messaging / streaming ---
+Kafka         | messaging | kafka, apache kafka |
+RabbitMQ      | messaging | rabbitmq |
+Spark         | data | spark, pyspark, apache spark |
+Airflow       | data | airflow, apache airflow |
+dbt           | data | dbt |
+Flink         | data | flink |
+ETL           | data | etl, elt, data pipelines, data pipeline |
+Hadoop        | data | hadoop, hdfs, hive |
+
+# --- cloud / devops ---
+AWS           | cloud | aws, amazon web services |
+EC2           | cloud | ec2 | AWS
+S3            | cloud | =S3, amazon s3 | AWS
+Lambda        | cloud | aws lambda, =Lambda | AWS
+RDS           | cloud | =RDS, amazon rds | AWS
+GCP           | cloud | gcp, google cloud, google cloud platform |
+Azure         | cloud | azure, microsoft azure |
+Docker        | devops | docker, dockerfile, docker compose, docker-compose, containerization, containers |
+Kubernetes    | devops | kubernetes, k8s, eks, gke, aks | Docker
+Helm          | devops | =Helm, helm charts | Kubernetes
+Terraform     | devops | terraform | Infrastructure as Code
+Infrastructure as Code | devops | infrastructure as code, iac |
+Ansible       | devops | ansible |
+CI/CD         | devops | ci/cd, ci cd, continuous integration, continuous delivery, continuous deployment |
+GitHub Actions | devops | github actions | CI/CD
+Jenkins       | devops | jenkins | CI/CD
+GitLab CI     | devops | gitlab ci | CI/CD
+Linux         | devops | linux, unix, ubuntu |
+Nginx         | devops | nginx |
+Prometheus    | monitoring | prometheus |
+Grafana       | monitoring | grafana |
+Datadog       | monitoring | datadog |
+Observability | monitoring | observability, monitoring, alerting |
+Git           | tool | =Git, github, gitlab, bitbucket |
+
+# --- architecture / practices ---
+REST APIs     | practice | =REST, restful, rest api, rest apis, restful apis, restful api |
+Microservices | practice | microservices, microservice, micro-services, service-oriented |
+Distributed Systems | practice | distributed systems, distributed system |
+Event-driven Architecture | practice | event-driven, event driven |
+System Design | practice | system design |
+Data Modeling | practice | data modeling, data modelling, schema design |
+Unit Testing  | practice | unit testing, unit tests, pytest, junit, test-driven, tdd |
+Agile         | practice | agile, scrum, kanban, sprint planning |
+Code Review   | practice | code review, code reviews |
+Mentoring     | soft | mentoring, mentored, mentor |
+Technical Leadership | soft | led a team, tech lead, technical leadership, technical design |
+Stakeholder Management | soft | stakeholder management, stakeholders, cross-functional |
+Open Source   | practice | open source, open-source |
+
+# --- data / analytics ---
+Pandas        | data | pandas | Python
+NumPy         | data | numpy | Python
+Excel         | data | excel, spreadsheets, vlookup, pivot tables |
+Tableau       | data | tableau |
+Power BI      | data | power bi, powerbi |
+Looker        | data | looker |
+Statistics    | data | statistics, statistical analysis, hypothesis testing, regression analysis |
+A/B Testing   | data | a/b testing, a/b tests, ab testing, experimentation |
+Data Visualization | data | data visualization, dashboards, dashboard |
+
+# --- ML / AI ---
+Machine Learning | ml | machine learning, =ML |
+Deep Learning | ml | deep learning, neural networks, neural network |
+PyTorch       | ml | pytorch, torch | Deep Learning, Python
+TensorFlow    | ml | tensorflow, keras | Deep Learning, Python
+scikit-learn  | ml | scikit-learn, sklearn | Machine Learning, Python
+XGBoost       | ml | xgboost, lightgbm, catboost | Machine Learning
+NLP           | ml | nlp, natural language processing |
+Computer Vision | ml | computer vision, opencv, image classification, object detection |
+LLMs          | ml | llm, llms, large language models, gpt, fine-tuning, fine-tuned |
+RAG           | ml | rag, retrieval-augmented, retrieval augmented generation | LLMs
+Hugging Face  | ml | hugging face, huggingface, transformers library | NLP
+LangChain     | ml | langchain, langgraph | LLMs
+MLOps         | ml | mlops, mlflow, model deployment, model serving, kubeflow | Machine Learning
+Feature Engineering | ml | feature engineering |
+Recommender Systems | ml | recommender systems, recommendation system, recommendations engine |
+
+# --- product ---
+Product Roadmap | product | roadmap, roadmaps, product roadmap |
+Jira          | tool | jira, confluence |
+Figma         | tool | figma |

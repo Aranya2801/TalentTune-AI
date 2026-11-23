@@ -16,12 +16,6 @@ env/
 .env.production
 *.key
 
-# Node
-node_modules/
-dist/
-.next/
-out/
-
 # IDE
 .vscode/
 .idea/
@@ -41,3 +35,9 @@ htmlcov/
 *.pdf
 *.docx
 outputs/
+tailored_resume.*
+
+# local run history
+*.db
+
+.ruff_cache/
